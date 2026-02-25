@@ -18,7 +18,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="cholera_risk",
-    version="0.2.1",
+    version="1.0.0",
     author="Navnath Kamble, Yamini Madugu",
     author_email="navnathkamble0007@gmail.com, maduguyamini63662@gmail.com",
     description="A Monte Carlo simulation for Cholera risk assessment — "

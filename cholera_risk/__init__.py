@@ -14,6 +14,6 @@ Usage:
 
 from cholera_risk.model import CholeraSimulator
 
-__version__ = "0.2.1"
+__version__ = "1.0.0"
 __author__ = "Navnath Kamble, Yamini Madugu"
 __all__ = ["CholeraSimulator"]

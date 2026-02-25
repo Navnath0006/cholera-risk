@@ -38,7 +38,10 @@ The simulation generates **10,000** (configurable) random samples and computes:
 pip install cholera-risk
 
 # Or install a specific version
-pip install cholera-risk==0.2.0
+pip install cholera-risk==1.0.0
+
+# Or install directly from GitHub
+pip install git+https://github.com/Navnath0006/cholera-risk.git
 ```
 
 ---
