@@ -25,7 +25,7 @@ setup(
                 "quantitative transboundary infection risk analysis with configurable parameters",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://pypi.org/project/cholera-risk/",
+    url="https://github.com/Navnath0006/cholera-risk",
     packages=find_packages(exclude=["tests*"]),
     python_requires=">=3.8",
     install_requires=[
